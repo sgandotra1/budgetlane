@@ -1,0 +1,5 @@
+.env
+*.db
+*.db-*
+budgetlane
+.DS_Store
