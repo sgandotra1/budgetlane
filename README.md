@@ -104,12 +104,6 @@ Live Plaid integration requires your Sandbox credentials and must be validated s
 6. Show the sync history and explain atomic cursor persistence and pagination restart.
 7. If configured, switch to Sandbox and demonstrate the actual Link flow.
 
-## Resume wording (after you understand and verify it)
-
-Built a Go and SQLite budgeting dashboard integrated with Plaid Sandbox; implemented cursor-based transaction synchronization with atomic persistence, pagination restart handling, and category-level monthly budgets.
-
-Only claim a tested live Sandbox integration after completing the credential-based flow. Avoid claiming production use, real customers, or money movement.
-
 ## References
 
 - https://plaid.com/docs/quickstart/
